@@ -2,8 +2,10 @@
 
 [GitHub](https://github.com/0mega24)
 
+[Contect Me]()
+
 [YouTube]()
 
-[]()
+[Twitch]()
 
-[]()
+[Spotify]()
