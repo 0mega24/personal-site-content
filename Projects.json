@@ -3,18 +3,21 @@
         "name": "cf-pack-export-to-md",
         "description": "Description of Project 1",
         "image": "",
-        "link": "https://github.com/0mega24/cf-pack-export-to-md"
+        "link": "https://github.com/0mega24/cf-pack-export-to-md",
+        "branch": "main"
     },
     {
         "name": "canny",
         "description": "Description of Project 2",
         "image": "main.png",
-        "link": "https://github.com/0mega24/canny"
+        "link": "https://github.com/0mega24/canny",
+        "branch": "main"
     },
     {
         "name": "CSHacks",
         "description": "Description of Project 3",
         "image": "",
-        "link": "https://github.com/0mega24/CSHacks"
+        "link": "https://github.com/0mega24/CSHacks",
+        "branch": "main"
     }
 ]
