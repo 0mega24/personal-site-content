@@ -1,32 +1,26 @@
 [
     {
         "name": "LinkedIn",
-        "icon": "link to icon",
         "link": "https://www.linkedin.com/in/sean-lidy"
     },
     {
         "name": "GitHub",
-        "icon": "link to icon",
         "link": "https://www.github.com/0mega24"
     },
     {
         "name": "Contact Me",
-        "icon": "link to icon",
         "link": "mailto:"
     },
     {
         "name": "YouTube",
-        "icon": "link to icon",
         "link": ""
     },
     {
         "name": "Twitch",
-        "icon": "link to icon",
         "link": ""
     },
     {
         "name": "Spotify",
-        "icon": "link to icon",
         "link": ""
     }
 ]
