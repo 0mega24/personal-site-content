@@ -1,3 +1,62 @@
-# This is a test
+# About Me
 
-I do not know if this will work but we will see I guess.
+Do you call it lucky or blessed to have been a part of a wide variety of opportunities in my lifetime?
+
+## My Family Legacy
+
+How many people can say their grandfather was a pioneer with IBM, installing the first computer in the Midwest at Standard Oil? Or that their grandmother tried to use Ubuntu? How about having a first cousin once removed who helped to develop object-oriented programming (Smalltalk)?
+
+Perhaps the universe has positioned me for experiences to make me an impactful Software Engineer.
+
+## Leadership and Collaboration
+
+I have learned leadership and collaboration through my career in **Scouting** and the **FIRST programs**. Whether I have found myself at a campsite or on a competition field, I have developed skills in:
+
+- Communication
+- Problem solving
+- Relationship building
+
+These skills have put me in the position to be a valuable member of any team.
+
+### A Key Experience
+
+One opportunity-of-a-lifetime was when I, a **Life Scout**, led a group of ten people as the Crew Leader of an eleven-day backcountry high adventure hike at **Philmont Scout Ranch, New Mexico**. We packed in our gear, food, and water to complete almost 70 miles.
+
+Part of our hike was reaching an elevation of **11,742’ on Mount Phillips**, where we celebrated the **Fourth of July**. I am proud to say it was a successful outing with no losses or significant injuries.
+
+## Passion for Tech and Exploration
+
+Workload, project management, and tech exploration seem to be present in all areas of my life. From my coursework to my recreation, I find myself always digging deeper into:
+
+- **"The how and the why"**
+- What can be done to make it better and more efficient?
+
+I follow:
+
+- Current events
+- Tech trends
+- New releases
+- Hardware support updates
+- Hobby news
+
+Oftentimes these areas intermingle, and I see the relationship among them while fueling my passion for software engineering as a **global citizen**.
+
+### Recent Interests
+
+Recently, I had the opportunity to take a deep dive into **AI and American Politics**. If you need a recommendation for a good book, can I suggest **[LIST ONE OR TWO HERE]**?
+
+## My Recreation
+
+When given my choice for recreation, you might find me:
+
+- Outdoors on my **mountain bike**
+- In a **kayak** with my fishing gear
+- Hanging out in my **hammock** with a good book
+- Modding **games**
+- Spending time **volunteering**
+
+There isn’t anything much better than fresh fish over a **campfire** and sleeping under the stars!
+
+## Looking Ahead
+
+Where is my next opportunity-of-a-lifetime? I hope to see you there!
