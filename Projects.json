@@ -2,7 +2,7 @@
     {
         "name": "cf-pack-export-to-md",
         "description": "Description of Project 1",
-        "image": "",
+        "image": "main.png",
         "link": "https://github.com/0mega24/cf-pack-export-to-md",
         "branch": "main"
     },
@@ -16,7 +16,7 @@
     {
         "name": "CSHacks",
         "description": "Description of Project 3",
-        "image": "",
+        "image": "main.png",
         "link": "https://github.com/0mega24/CSHacks",
         "branch": "main"
     }
