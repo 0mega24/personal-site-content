@@ -1,7 +1,7 @@
 [
     {
         "name": "cf-pack-export-to-md",
-        "description": "A project that allows for the easy conversion from a curseforge minecraft modpack export into a customizable text based list. If the output you want can be expressed as a list of lines in a text file you would be able to modify the format and saving to allow for any export style you want {.md, .html, .csv}",
+        "description": "A project that allows for the easy conversion from a curseforge minecraft modpack export into a customizable text based list",
         "image": "main.png",
         "link": "https://github.com/0mega24/cf-pack-export-to-md",
         "branch": "main"
@@ -15,7 +15,7 @@
     },
     {
         "name": "CSHacks",
-        "description": "A tool that generates color palettes by sorting an image’s unique colors using a custom clustering algorithm. By converting RGB to HSV and applying a four-tiered sorting system based on hue, saturation, value, and alpha, it produces highly refined and organized color schemes for design and analysis.",
+        "description": "A tool that generates refined color palettes by sorting an image’s unique colors using a custom algorithm based on HSV clustering",
         "image": "main.png",
         "link": "https://github.com/0mega24/CSHacks",
         "branch": "main"
