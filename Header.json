@@ -5,18 +5,18 @@
     },
     {
         "name": "Projects",
-        "link": "gallery.html"
+        "link": "Gallery.html"
     },
     {
         "name": "About",
-        "link": "about.html"
+        "link": "About.html"
     },
     {
         "name": "Links",
-        "link": "links.html"
+        "link": "Links.html"
     },
     {
         "name": "Resume",
-        "link": "resume.html"
+        "link": "Resume.html"
     }
 ]
