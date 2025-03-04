@@ -1,22 +1,22 @@
 [
     {
         "name": "Home",
-        "link": "Home.html"
+        "link": "index.html"
     },
     {
-        "name": "Gallery",
-        "link": "Gallery.html"
+        "name": "Projects",
+        "link": "gallery.html"
     },
     {
         "name": "About",
-        "link": "About.html"
+        "link": "about.html"
     },
     {
         "name": "Links",
-        "link": "Links.html"
+        "link": "links.html"
     },
     {
         "name": "Resume",
-        "link": "Resume.html"
+        "link": "resume.html"
     }
 ]
