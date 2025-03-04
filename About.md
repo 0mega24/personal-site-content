@@ -43,7 +43,7 @@ Oftentimes these areas intermingle, and I see the relationship among them while 
 
 ### Recent Interests
 
-Recently, I had the opportunity to take a deep dive into **AI and American Politics**. If you need a recommendation for a good book, may I suggest **Life 3.0** by Max Tegmark or **Supremacy AI** by ParmyOlson?
+Recently, I had the opportunity to take a deep dive into **AI and American Politics**. If you need a recommendation for a good book, may I suggest **Life 3.0** by Max Tegmark or **Supremacy AI** by Parmy Olson?
 
 ## My Recreation
 
