@@ -18,11 +18,11 @@ I have learned leadership and collaboration through my career in **Scouting** an
 
 These skills have put me in the position to be a valuable member of any team.
 
-### A Key Experience
+## Building Connections
 
-One opportunity-of-a-lifetime was when I, a **Life Scout**, led a group of ten people as the Crew Leader of an eleven-day backcountry high adventure hike at **Philmont Scout Ranch, New Mexico**. We packed in our gear, food, and water to complete almost 70 miles.
-
-Part of our hike was reaching an elevation of **11,742’ on Mount Phillips**, where we celebrated the **Fourth of July**. I am proud to say it was a successful outing with no losses or significant injuries.
+Opportunities are found in the every day of life, too, like becoming part of a historical academic fraternity at RIT.  The Computer Science House has a xxx year history with alumni all over the world.
+The connections and friendships with others in the tech world gives perspectives and food for thought.
+CSH creates learning opportunities, teaching opportunities, and memories.  It's given me the chance to camp at Brandreth Park, dine on top of the City of Rochester, and develop lasting friendships?
 
 ## Passion for Tech and Exploration
 
@@ -43,7 +43,7 @@ Oftentimes these areas intermingle, and I see the relationship among them while 
 
 ### Recent Interests
 
-Recently, I had the opportunity to take a deep dive into **AI and American Politics**. If you need a recommendation for a good book, can I suggest **[LIST ONE OR TWO HERE]**?
+Recently, I had the opportunity to take a deep dive into **AI and American Politics**. If you need a recommendation for a good book, may I suggest **Life 3.0** by Max Tegmark or **Supremacy AI** by ParmyOlson?
 
 ## My Recreation
 

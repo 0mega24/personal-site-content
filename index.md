@@ -22,5 +22,5 @@ When given my choice for recreation, you might find me:
 - **Modding games**
 - Spending time **volunteering**
 
-> *“If you’re not failing 90% of the time, then you’re probably not working on sufficiently challenging problems.”*  
-> – **Alan Kay**
+> *“If you can't explain it simply, you don't understand it well enough.”*  
+> – **Albert Einstein**
