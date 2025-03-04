@@ -4,19 +4,19 @@
         "link": "Home.html"
     },
     {
-        "name": "About",
-        "link": "About.html"
-    },
-    {
-        "name": "Resume",
-        "link": "Resume.html"
-    },
-    {
         "name": "Projects",
         "link": "Gallery.html"
     },
     {
+        "name": "About",
+        "link": "About.html"
+    },
+    {
         "name": "Links",
         "link": "Links.html"
+    },
+    {
+        "name": "Resume",
+        "link": "Resume.html"
     }
 ]
