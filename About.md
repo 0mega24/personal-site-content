@@ -10,9 +10,7 @@ Perhaps the universe has positioned me for experiences to make me an impactful S
 
 ## Leadership and Collaboration
 
-The opportunities in Scouting found me serving the Troop and community through leadership roles where I managed groups, organized events, and served as liaison between the boys and adults. My involvement in FIRST youth robotics definitely provided repeated scenarios to forge alliances, to quickly remedy unexpected challenges, and clearly share information with a wide audience. These skills have 
-
-I have learned leadership and collaboration through my career in **Scouting** and the **FIRST** youth robotics programs. Whether I have found myself at a campsite or on a competition field, I have developed skills in:
+The opportunities in Scouting found me serving the Troop and community through leadership roles where I managed groups, organized events, and served as liaison between the boys and adults. My involvement in FIRST youth robotics definitely provided repeated scenarios to forge alliances, to quickly remedy unexpected challenges, and clearly share information with a wide audience. These skills have developed my skills in:
 
 - Communication
 - Problem solving
