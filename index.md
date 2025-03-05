@@ -4,7 +4,7 @@ I am a dedicated and hardworking second-year student at **Rochester Institute of
 
 ## Leadership & Collaboration
 
-Availing myself of a wide variety of opportunities in my lifetime has helped me to learn **leadership** and **collaboration**. Through my career in **Scouting** and the **FIRST programs**, whether I have found myself at a campsite or on a competition field, I have developed skills in **communication**, **problem solving**, and **relationship building** that put me in the position to be a valuable member of any team.
+Availing myself of a wide variety of opportunities in my lifetime has helped me to learn **leadership** and **collaboration**. Through my career in **Scouting** and the **FIRST** youth robotics programs, whether I have found myself at a campsite or on a competition field, I have developed skills in **communication**, **problem solving**, and **relationship building** that put me in the position to be a valuable member of any team.
 
 ### Example of Leadership
 

@@ -4,13 +4,15 @@ Do you call it lucky or blessed to have been a part of a wide variety of opportu
 
 ## My Family Legacy
 
-How many people can say their grandfather was a pioneer with IBM, installing the first computer in the Midwest at Standard Oil? Or that their grandmother tried to use Ubuntu? How about having a first cousin once removed who helped to develop object-oriented programming (Smalltalk)?
+How many people can say their grandfather was a pioneer with IBM, installing one of the first computer in the Midwest at Standard Oil? Or that their grandmother tried to use Ubuntu? How about having a first cousin once removed who helped to develop object-oriented programming (Smalltalk)?
 
 Perhaps the universe has positioned me for experiences to make me an impactful Software Engineer.
 
 ## Leadership and Collaboration
 
-I have learned leadership and collaboration through my career in **Scouting** and the **FIRST programs**. Whether I have found myself at a campsite or on a competition field, I have developed skills in:
+The opportunities in Scouting found me serving the Troop and community through leadership roles where I managed groups, organized events, and served as liaison between the boys and adults. My involvement in FIRST youth robotics definitely provided repeated scenarios to forge alliances, to quickly remedy unexpected challenges, and clearly share information with a wide audience. These skills have 
+
+I have learned leadership and collaboration through my career in **Scouting** and the **FIRST** youth robotics programs. Whether I have found myself at a campsite or on a competition field, I have developed skills in:
 
 - Communication
 - Problem solving
@@ -20,7 +22,7 @@ These skills have put me in the position to be a valuable member of any team.
 
 ## Building Connections
 
-Opportunities are found in the every day of life, too, like becoming part of a historical academic fraternity at RIT.  The Computer Science House has a going on 50 year history with alumni all over the world.
+Opportunities are found in the every day of life, too, like becoming part of a historical academic fraternity at RIT.  The Computer Science House has an almost 50 year history with alumni all over the world.
 The connections and friendships with others in the tech world gives perspectives and food for thought.
 CSH creates learning opportunities, teaching opportunities, and memories.  It's given me the chance to camp at Brandreth Park, dine on top of the City of Rochester, and develop lasting friendships?
 
@@ -33,11 +35,11 @@ Workload, project management, and tech exploration seem to be present in all are
 
 I follow:
 
-- Current events
-- Tech trends
-- New releases
-- Hardware support updates
-- Hobby news
+- Hardware releases
+- JavaScript Updates and Frameworks
+- Software modding
+- Game Development
+- Linux software support
 
 Oftentimes these areas intermingle, and I see the relationship among them while fueling my passion for software engineering as a **global citizen**.
 
