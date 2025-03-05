@@ -24,7 +24,7 @@ These skills have put me in the position to be a valuable member of any team.
 
 Opportunities are found in the every day of life, too, like becoming part of a historical academic fraternity at RIT.  The Computer Science House has an almost 50 year history with alumni all over the world.
 The connections and friendships with others in the tech world gives perspectives and food for thought.
-CSH creates learning opportunities, teaching opportunities, and memories.  It's given me the chance to camp at Brandreth Park, dine on top of the City of Rochester, and develop lasting friendships?
+CSH creates learning opportunities, teaching opportunities, and memories.  It's given me the chance to camp at Brandreth Park, dine on top of the City of Rochester, and develop lasting friendships.
 
 ## Passion for Tech and Exploration
 
